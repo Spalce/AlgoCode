@@ -1,0 +1,15 @@
+D:\Console\AlgoCode\AlgoCode\bin\Debug\net6.0\AlgoCode.exe
+D:\Console\AlgoCode\AlgoCode\bin\Debug\net6.0\AlgoCode.deps.json
+D:\Console\AlgoCode\AlgoCode\bin\Debug\net6.0\AlgoCode.runtimeconfig.json
+D:\Console\AlgoCode\AlgoCode\bin\Debug\net6.0\AlgoCode.dll
+D:\Console\AlgoCode\AlgoCode\bin\Debug\net6.0\AlgoCode.pdb
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.csproj.AssemblyReference.cache
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.AssemblyInfoInputs.cache
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.AssemblyInfo.cs
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.csproj.CoreCompileInputs.cache
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.dll
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\refint\AlgoCode.dll
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.pdb
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\AlgoCode.genruntimeconfig.cache
+D:\Console\AlgoCode\AlgoCode\obj\Debug\net6.0\ref\AlgoCode.dll
